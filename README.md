@@ -10,7 +10,7 @@
 
 ## 🚀 My pet projects:
 - [MaksPilot](https://makspilot.com) - Free Spreadsheet Comparison Tool
-
+- [ALLJSON](https://alljson.com) - Validate JSON · explore the tree · build SQL
 ---
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@protmaks) &nbsp;
