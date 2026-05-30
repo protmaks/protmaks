@@ -10,6 +10,7 @@
 
 ## 🚀 My pet projects:
 - [MaksPilot](https://makspilot.com) - Free Spreadsheet Comparison Tool
+- [BOXtests](https://boxtests.com) - Infrastructure for Knowledge
 - [ALLJSON](https://alljson.com) - Validate JSON · explore the tree · build SQL
 ---
 
