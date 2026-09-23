@@ -10,6 +10,9 @@
 
 ## 🚀 My pet projects:
 - [MaksPilot](https://makspilot.com) - Free Spreadsheet Comparison Tool
+- [Bricksters.org](https://bricksters.org) - Build your Databricks knowleadge
+- [FinOpsWay](https://finopsway.com) - Databricks costs in Databricks UI
+- [ReBricked](https://rebricked.org) - Every Databricks product and feature that's been renamed, deprecated, or newly shipped
 - [BOXtests](https://boxtests.com) - Infrastructure for Knowledge
 - [allJSON](https://alljson.com) - Validate JSON · explore the tree · build SQL
 ---
